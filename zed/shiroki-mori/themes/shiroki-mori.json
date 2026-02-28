@@ -263,7 +263,7 @@
           },
           "link_text": {
             "color": "#005fafff",
-            "font_style": "underline",
+            "font_style": "oblique",
             "font_weight": null
           },
           "link_uri": {
