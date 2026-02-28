@@ -1,0 +1,23 @@
+{
+  "name": "shiroki-mori",
+  "displayName": "shiroki-mori",
+  "description": "A light theme based on wildcharm with additional highlight customizations",
+  "version": "0.0.1",
+  "published": "Yuki",
+  "icon": "icon.png",
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Shiroki Mori",
+        "uiTheme": "vs",
+        "path": "./themes/shiroki-mori.json"
+      }
+    ]
+  }
+}
