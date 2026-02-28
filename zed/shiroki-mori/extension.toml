@@ -1,0 +1,7 @@
+id = "shiroki-mori"
+name = "shiroki-mori"
+version = "0.0.1"
+schema_version = 1
+authors = ["Yuki.N"]
+description = "shiroki-mori"
+repository = "https://github.com/your-name/my-zed-extension"
