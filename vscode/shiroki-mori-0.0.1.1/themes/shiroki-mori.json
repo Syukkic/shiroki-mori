@@ -167,7 +167,7 @@
       "name": "Comment",
       "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
-        "fontStyle": "italic",
+        "fontStyle": "",
         "foreground": "#8a8a8a"
       }
     },
@@ -340,7 +340,7 @@
       "name": "Language methods",
       "scope": ["variable.language"],
       "settings": {
-        "fontStyle": "italic",
+        "fontStyle": "",
         "foreground": "#af0000"
       }
     },
@@ -375,7 +375,7 @@
         "text.html.basic entity.other.attribute-name"
       ],
       "settings": {
-        "fontStyle": "italic",
+        "fontStyle": "",
         "foreground": "#af5f00"
       }
     },
@@ -442,7 +442,7 @@
         "tag.decorator.js punctuation.definition.tag.js"
       ],
       "settings": {
-        "fontStyle": "italic",
+        "fontStyle": "",
         "foreground": "#870087"
       }
     },
@@ -452,7 +452,7 @@
         "source.js constant.other.object.key.js string.unquoted.label.js"
       ],
       "settings": {
-        "fontStyle": "italic",
+        "fontStyle": "",
         "foreground": "#af0000"
       }
     },
@@ -533,7 +533,7 @@
       "name": "Markup - Italic",
       "scope": ["markup.italic"],
       "settings": {
-        "fontStyle": "italic",
+        "fontStyle": "",
         "foreground": "#af0000"
       }
     },
@@ -579,7 +579,7 @@
       "name": "Markup - Quote",
       "scope": ["markup.quote"],
       "settings": {
-        "fontStyle": "italic"
+        "fontStyle": ""
       }
     },
     {
