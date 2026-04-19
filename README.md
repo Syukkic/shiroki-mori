@@ -9,10 +9,7 @@ vim.cmd.colorscheme('shiroki-mori')
 
 ## VSCode
 
-```bash
-cp ./vscode/shiroki-mori-0.0.1.1 ~/.vscode-oss/extensions/ -R
-# cp ./vscode/shiroki-mori-0.0.1.1 ~/.vscode/extensions/ -R
-```
+https://marketplace.visualstudio.com/items?itemName=shiroki-mori.shiroki-mori
 
 ## Zed
 
