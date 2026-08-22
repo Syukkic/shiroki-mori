@@ -1,6 +1,6 @@
 {
   "$schema": "https://zed.dev/schema/themes/v0.2.0.json",
-  "name": "shiroki-mori",
+  "name": "Shiroki Mori",
   "author": "Yuki.N",
   "themes": [
     {
@@ -60,7 +60,7 @@
         "editor.gutter.background": "#ecececff",
         "editor.subheader.background": "#e4e4e4ff",
         "editor.active_line.background": "#e1e1e1bf",
-        "editor.highlighted_line.background": "#e4e4e4ff",
+        "editor.highlighted_line.background": "#E4E4E4FF",
         "editor.line_number": "#b2b2b2ff",
         "editor.active_line_number": "#000000ff",
         "editor.hover_line_number": "#5f5f5fff",
@@ -94,8 +94,8 @@
         "terminal.ansi.cyan": "#008787ff",
         "terminal.ansi.bright_cyan": "#458588ff",
         "terminal.ansi.dim_cyan": "#005f5fff",
-        "terminal.ansi.white": "#ffffffff",
-        "terminal.ansi.bright_white": "#ffffffff",
+        "terminal.ansi.white": "#EDE1E1FF",
+        "terminal.ansi.bright_white": "#EDE1E1FF",
         "terminal.ansi.dim_white": "#e1e1e1ff",
         "link_text.hover": "#005fafff",
         "version_control.added": "#008700ff",
@@ -152,7 +152,7 @@
           {
             "cursor": "#000000ff",
             "background": "#000000ff",
-            "selection": "#ffffff99"
+            "selection": "#C6D5DCFF"
           },
           {
             "cursor": "#af0000ff",
@@ -263,7 +263,7 @@
           },
           "link_text": {
             "color": "#005fafff",
-            "font_style": "oblique",
+            "font_style": "normal",
             "font_weight": null
           },
           "link_uri": {
@@ -410,12 +410,12 @@
         "panel.overlay_background": "#e4e4e4ff",
         "panel.overlay_hover": "#ecececff",
         "minimap.thumb.background": "#5f5f5f4c",
-        "minimap.thumb.hover_background": "#5f5f5fff",
+        "minimap.thumb.hover_background": "#E8E3E3BD",
         "minimap.thumb.border": "#5f5f5fff",
-        "element.selection_background": "#005F8730"
+        "element.selection_background": "#0E90C75E"
       }
     }
   ],
   "isUserGenerated": true,
-  "description": "shiroki-mori"
+  "description": "Shiroki Mori"
 }

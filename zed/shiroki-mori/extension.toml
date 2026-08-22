@@ -1,7 +1,8 @@
-id = "shiroki-mori"
-name = "shiroki-mori"
+id = "shiroki-mori-theme"
+name = "Shiroki Mori"
+appearance = "light"
 version = "0.0.1"
 schema_version = 1
-authors = ["Yuki.N"]
-description = "shiroki-mori"
-repository = "https://github.com/your-name/my-zed-extension"
+authors = ["Yuki.N <Syukkic@gmail.com>"]
+description = "Shiroki Mori"
+repository = "https://github.com/Syukkic/shiroki-mori"
